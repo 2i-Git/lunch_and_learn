@@ -26,7 +26,7 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Craig Mcleod",
+    header: "Craig McLeod",
     subheader: "Test Automation Engineer",
     social: {
       twitter: "#",
