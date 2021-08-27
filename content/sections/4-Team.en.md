@@ -55,7 +55,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/2.jpg",
+    imageFileName: "team/kat.png",
     header: "Kat Kmiotek",
     subheader: "Test Automation Engineer",
     social: {
