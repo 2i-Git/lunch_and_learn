@@ -13,5 +13,4 @@ module.exports = {
     en: "English",
     ja: "日本語",
   },
-  image: "/team.png"
 };
