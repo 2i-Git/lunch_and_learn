@@ -1,7 +1,7 @@
 ---
-header: "It's Nice To Meet You"
-subheader: "Welcome To Our Studio!"
+header: "Welcome to our Team"
+subheader: "Lunch & Learn by 2i Engineers"
 imageFileName: "header-bg.jpg"
-jumpToAnchor: "Services"
-jumpToAnchorText: "Tell Me More"
+jumpToAnchor: "About"
+jumpToAnchorText: "About"
 ---

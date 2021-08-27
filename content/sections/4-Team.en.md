@@ -1,13 +1,13 @@
 ---
 anchor: "Team"
 header: "Our Amazing Team"
-subheader: "Lorem ipsum dolor sit amet consectetur."
-content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+subheader: "We are solving problems"
+content: "You can find us on MS Teams as well"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "Adam Pettman",
+    subheader: "Head of Engineering",
     social: {
       twitter: "#",
       facebook: "#",
@@ -16,8 +16,8 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "Ryan Kenny",
+    subheader: "Senior Test Atomation Engineer",
     social: {
       twitter: "#",
       facebook: "#",
@@ -26,12 +26,42 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    header: "Craig Mcleod",
+    subheader: "Test Automation Engineer",
     social: {
       twitter: "#",
       facebook: "#",
       medium: "#"
+    }
+  },
+  {
+    imageFileName: "team/1.jpg",
+    header: "Luke Hutchison",
+    subheader: "Test Automation Engineer",
+    social: {
+      twitter: "#",
+      facebook: "#",
+      linkedin: "#"
+    }
+  },
+  {
+    imageFileName: "team/3.jpg",
+    header: "Liam Meagher",
+    subheader: "Test Automation Engineer",
+    social: {
+      twitter: "#",
+      facebook: "#",
+      linkedin: "#"
+    }
+  },
+  {
+    imageFileName: "team/2.jpg",
+    header: "Kat Kmiotek",
+    subheader: "Test Automation Engineer",
+    social: {
+      twitter: "#",
+      facebook: "#",
+      linkedin: "#"
     }
   },
 ]
