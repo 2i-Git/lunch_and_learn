@@ -35,7 +35,7 @@ const Portfolio = ({ className, frontmatter }) => {
                   {extraInfo.map((ei) => (
                     <li key={ei}>{ei}</li>
                   ))}
-                  <li><a href={videoLink}>Watch video</a></li>
+                  <li><a href={videoLink} rel="noreferrer" target="_blank">Watch video</a></li>
                 </ul>
               }
             />
