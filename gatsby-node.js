@@ -91,7 +91,7 @@ exports.createPages = ({ graphql, actions: { createPage } }) => {
             context: {
               langKey,
               defaultLang,
-              langTextMap,
+              // langTextMap,
             },
           });
         });

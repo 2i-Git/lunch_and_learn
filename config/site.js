@@ -3,14 +3,14 @@ module.exports = {
   keywords: [
     "2i Testing",
     "Engineers",
-    "lunch and Learn",
+    "lunch and learn",
   ],
   description: "2i Testing - Engineering",
   author: "2i Engineering Team",
   trackingId: "2i-001",
   defaultLang: "en",
   langTextMap: {
-    en: "English",
-    ja: "日本語",
+    en: "English"
+    // ja: "日本語",
   },
 };

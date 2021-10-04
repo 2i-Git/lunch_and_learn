@@ -14,7 +14,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/leo.png",
+    imageFileName: "team/jeff.jpeg",
     header: "Ryan Kenny",
     subheader: "Senior Test Automation Engineer",
     social: {
@@ -31,7 +31,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/leo.png",
+    imageFileName: "team/bill.png",
     header: "Soniya Rane",
     subheader: "Senior Consultant - Engineering",
     social: {
@@ -47,7 +47,7 @@ teamMember: [
       }
     },
     {
-    imageFileName: "team/leo.png",
+    imageFileName: "team/ada.jpeg",
     header: "Madhumita Suresh",
     subheader: "Senior Consultant - Engineering",
     social: {
@@ -64,7 +64,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/leo.png",
+    imageFileName: "team/ada.jpeg",
     header: "Luke Hutchison",
     subheader: "Associate Consultant - Engineering",
     social: {
@@ -92,7 +92,7 @@ teamMember: [
       }
     },
     {
-    imageFileName: "team/leo.png",
+    imageFileName: "team/bill.png",
     header: "Stephen Fearnley",
     subheader: "Associate Consultant - Engineering",
     social: {
