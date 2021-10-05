@@ -4,40 +4,37 @@ header: "About"
 subheader: "And what we do"
 timeline: [
   {
-    imageFileName: "about/1.jpg",
+    imageFileName: "about/framework.png",
     header: "Framework",
-    subheader: "our own product",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    subheader: "We are proud of!",
+    content: "As many clients as many tools. Our team works on generating a test framework base on the client's needs - obviously in an automated manner ;)"
   },
   {
-    imageFileName: "about/2.jpg",
+    imageFileName: "about/ui.png",
     header: "UI Testing",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    subheader: "We love it!",
+    content: "Automating UI tests is a must those days and we know few great tools to do it: Selenium, Cypress, Playwright, Puppeteer, WebdriverIO and more!"
   },
   {
-    imageFileName: "about/3.jpg",
+    imageFileName: "about/api.png",
+    subheader: "We love it!",
     header: "API Tesing",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "We fight with HTTP 500 errors, use mock servers, utilise all available tools to make API testing as automated as possible."
   },
   {
-    imageFileName: "about/4.jpg",
+    imageFileName: "about/performance.png",
     header: "Performance Testing",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "We use tools like Gatling or K6 to validate the performance of the client's application during big workloads."
   },
   {
-    imageFileName: "about/3.jpg",
+    imageFileName: "about/clients.png",
     header: "Clients",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Members our team represent 2i at Home Office, Scottish Government, Thrive Tribe, BIP etc."
   },
   {
-    imageFileName: "about/2.jpg",
+    imageFileName: "about/learning.png",
     header: "Continious Learning",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "We are keep learning. Experimenting with technologies and using resources like Pluralsight, A Cloud Guru, EggHead, YouTube, Stackoverflow. In a spare time we get certifications and attend webinars"
   },
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"
