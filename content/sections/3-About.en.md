@@ -34,7 +34,7 @@ timeline: [
   {
     imageFileName: "about/learning.png",
     header: "Continious Learning",
-    content: "We are keep on learning. Experimenting with technologies and using resources like Pluralsight, A Cloud Guru, EggHead, YouTube, Stackoverflow. In our spare time we get certifications and attend webinars"
+    content: "We keep on learning. Experimenting with technologies and using resources like Pluralsight, A Cloud Guru, EggHead, YouTube, Stackoverflow. In our spare time we get certifications and attend webinars"
   },
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"
