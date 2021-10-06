@@ -6,14 +6,14 @@ timeline: [
   {
     imageFileName: "about/framework.png",
     header: "Framework",
-    subheader: "We are proud of!",
-    content: "As many clients as many tools. Our team works on generating a test framework base on the client's needs - obviously in an automated manner ;)"
+    subheader: "We are proud of it!",
+    content: "As many clients as tools. Our team works on generating a test framework based on the client's needs - obviously in an automated manner ;)"
   },
   {
     imageFileName: "about/ui.png",
     header: "UI Testing",
     subheader: "We love it!",
-    content: "Automating UI tests is a must those days and we know few great tools to do it: Selenium, Cypress, Playwright, Puppeteer, WebdriverIO and more!"
+    content: "Automating UI tests is a must these days and we know a few great tools to do it: Selenium, Cypress, Playwright, Puppeteer, WebdriverIO and more!"
   },
   {
     imageFileName: "about/api.png",
@@ -29,12 +29,12 @@ timeline: [
   {
     imageFileName: "about/clients.png",
     header: "Clients",
-    content: "Members our team represent 2i at Home Office, Scottish Government, Thrive Tribe, BIP etc."
+    content: "Members of our team represent 2i at Home Office, Scottish Government, Thrive Tribe, BIP etc."
   },
   {
     imageFileName: "about/learning.png",
     header: "Continious Learning",
-    content: "We are keep learning. Experimenting with technologies and using resources like Pluralsight, A Cloud Guru, EggHead, YouTube, Stackoverflow. In a spare time we get certifications and attend webinars"
+    content: "We are keep on learning. Experimenting with technologies and using resources like Pluralsight, A Cloud Guru, EggHead, YouTube, Stackoverflow. In our spare time we get certifications and attend webinars"
   },
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"
