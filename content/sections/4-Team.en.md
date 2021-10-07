@@ -136,7 +136,15 @@ teamMember: [
       email: "matthew.harrison@2itesting.com"
       }
     },
-     
+  {
+    imageFileName: "team/charlie.png",
+    header: "Charlie Ashton",
+    subheader: "Senior Test Engineer",
+    social: {
+      linkedin: "charlie-ashton-a35787176",
+      email: "charlie.ashton@2itesting.com"
+    }
+  },   
     
 ]
 ---
