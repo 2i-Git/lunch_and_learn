@@ -100,7 +100,7 @@ SEO.defaultProps = {
   meta: [],
   keywords: [],
   description: "",
-  image: ""
+  image: null
 };
 
 export default SEO;
