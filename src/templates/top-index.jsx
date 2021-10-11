@@ -120,7 +120,7 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
 
   return (
     <>
-      <SEO lang={langKey} title="Top" keywords={keywords} description={description} image={image}/>
+      <SEO lang={langKey} title="Lunch and Learn" keywords={keywords} description={description} image={image}/>
       <Navbar
         anchors={anchors}
         frontmatter={navBarNode.frontmatter}
