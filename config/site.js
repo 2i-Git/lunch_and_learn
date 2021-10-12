@@ -9,6 +9,7 @@ module.exports = {
   author: "2i Engineering Team",
   trackingId: "2i-001",
   defaultLang: "en",
+  image: "/content/assets/images/team.png",
   langTextMap: {
     en: "English"
     // ja: "日本語",
