@@ -33,7 +33,7 @@ timeline: [
   },
   {
     imageFileName: "about/learning.png",
-    header: "Continious Learning",
+    header: "Continuous Learning",
     content: "We keep on learning. Experimenting with technologies and using resources like Pluralsight, A Cloud Guru, EggHead, YouTube, Stackoverflow. In our spare time we get certifications and attend webinars"
   },
   {
