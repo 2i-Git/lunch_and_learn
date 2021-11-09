@@ -31,14 +31,6 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/bill.png",
-    header: "Soniya Rane",
-    subheader: "Senior Consultant - Engineering",
-    social: {
-      email: "soniya.rane@2itesting.com"
-      }
-    },
-  {
     imageFileName: "team/leo.png",
     header: "Rohini Rao",
     subheader: "Manager - Engineering",
@@ -71,8 +63,6 @@ teamMember: [
       email: "luke.hutchison@2itesting.com"
     }
   },
-  
-  
   {
     imageFileName: "team/craig.png",
     header: "Craig McLeod",
@@ -139,12 +129,19 @@ teamMember: [
   {
     imageFileName: "team/charlie.png",
     header: "Charlie Ashton",
-    subheader: "Senior Test Engineer",
+    subheader: "Senior Test Automation Engineer",
     social: {
       linkedin: "charlie-ashton-a35787176",
       email: "charlie.ashton@2itesting.com"
     }
-  },   
-    
+  },
+    {
+      imageFileName: "team/bill.png",
+      header: "Vaishali Salunkhe",
+      subheader: "Test Automation Engineer",
+      social: {
+          email: "vaishali.salunkhe@2itesting.com"
+      }
+    }
 ]
 ---
