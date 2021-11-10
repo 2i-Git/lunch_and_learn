@@ -136,10 +136,11 @@ teamMember: [
     }
   },
     {
-      imageFileName: "team/bill.png",
+      imageFileName: "team/vaishali.png",
       header: "Vaishali Salunkhe",
-      subheader: "Test Automation Engineer",
+      subheader: "Senior Consult - Engineering",
       social: {
+          linkedin: "vaishali-patil125",
           email: "vaishali.salunkhe@2itesting.com"
       }
     }
