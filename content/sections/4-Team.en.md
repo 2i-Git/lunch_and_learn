@@ -136,7 +136,7 @@ teamMember: [
     }
   },
     {
-      imageFileName: "team/bill.png",
+      imageFileName: "team/vaishali.png",
       header: "Vaishali Salunkhe",
       subheader: "Senior Consult - Engineering",
       social: {
