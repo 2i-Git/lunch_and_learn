@@ -7,7 +7,7 @@ module.exports = {
     keywords,
     description,
     author,
-    image,
+    image
   },
   plugins: [
     {
