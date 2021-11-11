@@ -138,7 +138,7 @@ teamMember: [
     {
       imageFileName: "team/vaishali.png",
       header: "Vaishali Salunkhe",
-      subheader: "Senior Consult - Engineering",
+      subheader: "Senior Consultant - Engineering",
       social: {
           linkedin: "vaishali-patil125",
           email: "vaishali.salunkhe@2itesting.com"
