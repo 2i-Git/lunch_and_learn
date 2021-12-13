@@ -74,6 +74,24 @@ portfolios: [
     content: "So many clever ideas! How to use Google Vison API or Google ML for testing? Great presentations from Squad 3",
     extraInfo: ["Date: 21 Oct 2021", "Tools: Google Vision, Google ML", "Category: Automation POCs"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/adam_pettman/ESFH0dobZv5Dl8zd3KZPfFQBC-kaNRnanAUvVwt96bkKxg"
+  },
+  {
+    imageFileName: "mongodb.png",
+    imageFileNameDetails: "mongodb.png",
+    header: "Aggregate in MongoDB",
+    subheader: "by Craig",
+    content: "Relationships can be difficult, especially when they're non-relational",
+    extraInfo: ["Date: 2 Dec 2021", "Tools: MongoDB, ATLAS, Node, mongoplayground", "Category: NoSQL Databases"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/liam_meagher/EWbh6kcevitLphjoXhUfu-gBJFUnkZjYQEKnIZwEHgmaFQ"
+  },
+  {
+    imageFileName: "colours.jpg",
+    imageFileNameDetails: "colours.jpg",
+    header: "Testing CSS colours with Cypress",
+    subheader: "by Carla",
+    content: "How to use cypress to test web page CSS colours",
+    extraInfo: ["Date: 7 Dec 2021", "Tools: CSS, Cypress", "Category: NoSQL Databases"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/carla_chiodi_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcarla%5Fchiodi%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FTest%20that%20%5Fchucknorris%20%7B%20color%5F%20%5FBADA55%20%7D%21%2D20211207%5F130254%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcarla%5Fchiodi%5F2itesting%5Fcom%2FDocuments%2FRecordings"
   }
 ]
 ---
