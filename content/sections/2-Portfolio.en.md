@@ -92,6 +92,15 @@ portfolios: [
     content: "How to use cypress to test web page CSS colours",
     extraInfo: ["Date: 7 Dec 2021", "Tools: CSS, Cypress", "Category: UI Testing"],
     videoLink: "https://2itesting-my.sharepoint.com/personal/carla_chiodi_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcarla%5Fchiodi%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FTest%20that%20%5Fchucknorris%20%7B%20color%5F%20%5FBADA55%20%7D%21%2D20211207%5F130254%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcarla%5Fchiodi%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+  },
+  {
+    imageFileName: "refactor.png",
+    imageFileNameDetails: "refactor.png",
+    header: "Refactor after refactor.... After REFACTOR!",
+    subheader: "by Charlie",
+    content: "Refactoring complex code to make it more simple.",
+    extraInfo: ["Date: 16 Dec 2021", "Tools: Cucumber, Selenium", "Category: Clean Code"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/charlie_ashton_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcharlie%5Fashton%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FRefactor%20after%20refactor%2E%2E%2E%2E%20After%20REFACTOR%21%20%2D%20Lunch%20and%20Learn%2D20211216%5F123310%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcharlie%5Fashton%5F2itesting%5Fcom%2FDocuments%2FRecordings"
   }
 ]
 ---
