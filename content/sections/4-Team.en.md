@@ -46,15 +46,6 @@ teamMember: [
       email: "Madhumita.Suresh@2itesting.com"
       }
     },
-    {
-    imageFileName: "team/kat.png",
-    header: "Kat Kmiotek",
-    subheader: "Associate Consultant - Engineering",
-    social: {
-      linkedin: "katarzyna-kmiotek",
-      email: "katarzyna.kmiotek@2itesting.com"
-    }
-  },
   {
     imageFileName: "team/ada.jpeg",
     header: "Luke Hutchison",
@@ -117,15 +108,6 @@ teamMember: [
       email: "martin.sutherland@2itesting.com"
       }
     },
-     {
-    imageFileName: "team/matthew.png",
-    header: "Matthew Harrison",
-    subheader: "Associate Consultant - Engineering",
-    social: {
-      linkedin: "matt-harrison-dev",
-      email: "matthew.harrison@2itesting.com"
-      }
-    },
   {
     imageFileName: "team/charlie.png",
     header: "Charlie Ashton",
@@ -143,6 +125,51 @@ teamMember: [
           linkedin: "vaishali-patil125",
           email: "vaishali.salunkhe@2itesting.com"
       }
-    }
+    },
+    {
+      imageFileName: "team/rory.jpg",
+      header: "Rory Fitkin",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "rory-fitkin-931b8a2165",
+          email: "rory.fitkin@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/daniel.png",
+      header: "Daniel McKenna",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "daniel-mckenna-a087a8221",
+          email: "daniel.mckenna@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/turing.jpg",
+      header: "Frankie Cheung",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "frankie-cheung-48a0a3182",
+          email: "frankie.cheung@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/joseph.png",
+      header: "Joseph Ofoma",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "joseph-ofoma-b84652220",
+          email: "joseph.ofoma@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/andrew.png",
+      header: "Andrew Gordon",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "jandrewgordon",
+          email: "andrew.gordon@2itesting.com"
+      }
+    },
 ]
 ---
