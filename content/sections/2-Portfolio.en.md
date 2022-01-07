@@ -102,14 +102,14 @@ portfolios: [
     extraInfo: ["Date: 16 Dec 2021", "Tools: Cucumber, Selenium", "Category: Clean Code"],
     videoLink: "https://2itesting-my.sharepoint.com/personal/charlie_ashton_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcharlie%5Fashton%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FRefactor%20after%20refactor%2E%2E%2E%2E%20After%20REFACTOR%21%20%2D%20Lunch%20and%20Learn%2D20211216%5F123310%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcharlie%5Fashton%5F2itesting%5Fcom%2FDocuments%2FRecordings"
   },
-  # {
-  #   imageFileName: "refactor.png",
-  #   imageFileNameDetails: "refactor.png",
-  #   header: "Visualisation Testing - Who needs applitools?",
-  #   subheader: "by Ryan",
-  #   content: "Refactoring complex code to make it more simple.",
-  #   extraInfo: ["Date: 06 Jan 2022", "Tools: Cucumber, Selenium", "Category: Visualisation Testing"],
-  #   videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/ryan_kenny_2itesting_com/Documents/Recordings/Visualisation%20Testing%20-%20Who%20needs%20applitools_-20220106_123125-Meeting%20Recording.mp4?csf=1&web=1&e=05KC5s"
-  # },
+  {
+    imageFileName: "visualisation.jpg",
+    imageFileNameDetails: "ref.png",
+    header: "Visualisation Testing - Who needs applitools?",
+    subheader: "by Ryan",
+    content: "Visual Testing of webpage's using open source libraries in an Assure ATF Java Selenium framework. Using image comparison to allow engineers to quickly establish where visual UI changes have been made, and reducing the amount of code required to ensure this",
+    extraInfo: ["Date: 06 Jan 2022", "Tools: Assure ATF, Java, Selenium", "Category: Visualisation Testing"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/ryan_kenny_2itesting_com/Documents/Recordings/Visualisation%20Testing%20-%20Who%20needs%20applitools_-20220106_123125-Meeting%20Recording.mp4?csf=1&web=1&e=05KC5s"
+  },
 ]
 ---
