@@ -104,7 +104,7 @@ portfolios: [
   },
   {
     imageFileName: "visualisation.jpg",
-    imageFileNameDetails: "ref.png",
+    imageFileNameDetails: "visualisation.jpg",
     header: "Visualisation Testing - Who needs applitools?",
     subheader: "by Ryan",
     content: "Visual Testing of webpage's using open source libraries in an Assure ATF Java Selenium framework. Using image comparison to allow engineers to quickly establish where visual UI changes have been made, and reducing the amount of code required to ensure this",
