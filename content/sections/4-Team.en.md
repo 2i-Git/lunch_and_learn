@@ -170,6 +170,6 @@ teamMember: [
           linkedin: "jandrewgordon",
           email: "andrew.gordon@2itesting.com"
       }
-    },
+    }
 ]
 ---
