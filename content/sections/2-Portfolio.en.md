@@ -112,8 +112,8 @@ portfolios: [
     videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/ryan_kenny_2itesting_com/Documents/Recordings/Visualisation%20Testing%20-%20Who%20needs%20applitools_-20220106_123125-Meeting%20Recording.mp4?csf=1&web=1&e=05KC5s"
   },
    {
-    imageFileName: "pipeline.png",
-    imageFileNameDetails: "pipeline.png",
+    imageFileName: "pipelines.png",
+    imageFileNameDetails: "pipelines.png",
     header: "Thrive Tribe ADO Pipelines",
     subheader: "by Liam",
     content: "A walk through of a Microservices Architecture and the pipelines supporting it",
