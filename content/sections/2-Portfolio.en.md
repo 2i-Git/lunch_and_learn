@@ -111,5 +111,14 @@ portfolios: [
     extraInfo: ["Date: 06 Jan 2022", "Tools: Assure ATF, Java, Selenium", "Category: Visualisation Testing"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/ryan_kenny_2itesting_com/Documents/Recordings/Visualisation%20Testing%20-%20Who%20needs%20applitools_-20220106_123125-Meeting%20Recording.mp4?csf=1&web=1&e=05KC5s"
   },
+   {
+    imageFileName: "pipeline.jpg",
+    imageFileNameDetails: "pipeline.jpg",
+    header: "Thrive Tribe ADO Pipelines",
+    subheader: "by Liam",
+    content: "A walk through of a Microservices Architecture and the pipelines supporting it",
+    extraInfo: ["Date: 14 Jan 2022", "Tools: Microsoft Azure", "Category: Pipelines"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/liam_meagher_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%20%2D%20Thrive%20Tribe%20ADO%20Pipelines%2D20220114%5F123145%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+  },
 ]
 ---
