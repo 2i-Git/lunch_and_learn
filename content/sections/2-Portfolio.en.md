@@ -129,5 +129,14 @@ portfolios: [
     extraInfo: ["Date: 20 Jan 2022", "Tools: Serenity, Cucumber, Java", "Category: Selenium"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/ERpR-607Z45Llmb3w6OU0WEBROV4eKVz-zFJ2zju7kkJaw"
   },
+  {
+    imageFileName: "pipeline.jpg",
+    imageFileNameDetails: "pipeline.jpg",
+    header: "An introduction to automation servers and pipelines",
+    subheader: "by Stephen",
+    content: "A high level introduction to automation servers and pipelines, demonstrated with Jenkins",
+    extraInfo: ["Date: 27 Jan 2022", "Tools: Jenkins", "Category: Pipelines and automation servers"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EaHrqYGOHxhFsn3gdzzGZ2IBr-V9mzs9nsumy7l__h6p9w"
+  }
 ]
 ---
