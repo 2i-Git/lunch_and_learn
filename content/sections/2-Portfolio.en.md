@@ -121,8 +121,8 @@ portfolios: [
     videoLink: "https://2itesting-my.sharepoint.com/personal/liam_meagher_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%20%2D%20Thrive%20Tribe%20ADO%20Pipelines%2D20220114%5F123145%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings"
   },
    {
-    imageFileName: "selenium.png",
-    imageFileNameDetails: "selenium.png",
+    imageFileName: "testing-framework.jpg",
+    imageFileNameDetails: "testing-framework.jpg",
     header: "Selenium Frameworks Crash Course",
     subheader: "by Ryan",
     content: "An introduction to the Selenium framework architecture",
