@@ -137,6 +137,15 @@ portfolios: [
     content: "A high level introduction to automation servers and pipelines, demonstrated with Jenkins",
     extraInfo: ["Date: 27 Jan 2022", "Tools: Jenkins", "Category: Pipelines and automation servers"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EaHrqYGOHxhFsn3gdzzGZ2IBr-V9mzs9nsumy7l__h6p9w"
+  },
+  {
+    imageFileName: "trick.png",
+    imageFileNameDetails: "trick.png",
+    header: "Managing Tricky Situations",
+    subheader: "by Luke",
+    content: "A session on how to handle various scenarios you may come across during client work",
+    extraInfo: ["Date: 03 Feb 2022", "Tools: Experience", "Category: Client relationships"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/luke_hutchison/EY2nottbYapCuci5305elwEBWN1Zs06iUjhCVZxH1lTgUg"
   }
 ]
----
+
