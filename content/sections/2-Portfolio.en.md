@@ -146,6 +146,15 @@ portfolios: [
     content: "A session on how to handle various scenarios you may come across during client work",
     extraInfo: ["Date: 03 Feb 2022", "Tools: Experience", "Category: Client relationships"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/luke_hutchison/EY2nottbYapCuci5305elwEBWN1Zs06iUjhCVZxH1lTgUg"
+  },
+  {
+    imageFileName: "hiring.jpg",
+    imageFileNameDetails: "hiring.jpg",
+    header: "Diversifying Recruitment",
+    subheader: "by Adam",
+    content: "How 2i is hiring in a smarter way to find talent",
+    extraInfo: ["Date: 10 Feb 2022", "Category: Hiring"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/adam_pettman_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadam%5Fpettman%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20and%20Learn%5F%20Diversifying%20recruitment%2D20220210%5F120402%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fadam%5Fpettman%5F2itesting%5Fcom%2FDocuments%2FRecordings"
   }
 ]
 
