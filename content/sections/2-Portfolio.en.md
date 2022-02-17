@@ -155,6 +155,15 @@ portfolios: [
     content: "How 2i is hiring in a smarter way to find talent",
     extraInfo: ["Date: 10 Feb 2022", "Category: Hiring"],
     videoLink: "https://2itesting-my.sharepoint.com/personal/adam_pettman_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fadam%5Fpettman%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20and%20Learn%5F%20Diversifying%20recruitment%2D20220210%5F120402%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fadam%5Fpettman%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+  },
+   {
+    imageFileName: "express.PNG",
+    imageFileNameDetails: "express.PNG",
+    header: "Introduction to Express.js and MongoDB",
+    subheader: "by Craig",
+    content: "An introduction to how Express and MongoDB are integrated to create backend servers.",
+    extraInfo: ["Date: 17 Feb 2022", "Tools: Express.js, MongoDB", "Category: Backend Development"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/ETte5e-XftZNkB8xTXe3C0IBn-lNOll7a2f8Sui6gfvUvw"
   }
 ]
 
