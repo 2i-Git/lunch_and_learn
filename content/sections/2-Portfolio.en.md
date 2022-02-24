@@ -164,6 +164,15 @@ portfolios: [
     content: "An introduction to how Express and MongoDB are integrated to create backend servers.",
     extraInfo: ["Date: 17 Feb 2022", "Tools: Express.js, MongoDB", "Category: Backend Development"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/ETte5e-XftZNkB8xTXe3C0IBn-lNOll7a2f8Sui6gfvUvw"
-  }
+  },
+  {
+    imageFileName: "actions.png",
+    imageFileNameDetails: "actions.png",
+    header: "GitHub Actions",
+    subheader: "by Carla",
+    content: "GitHub Actions: what it is, why use it, how to use it.",
+    extraInfo: ["Date: 24 Feb 2022", "Tools: Github Actions", "Category: CI/CD"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/carla_chiodi/EV-b4dxdIe5DonvnaWwRj_8BJP6wKffmqGxQlRcuKdrGMg"
+  },
 ]
 
