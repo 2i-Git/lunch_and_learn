@@ -174,5 +174,15 @@ portfolios: [
     extraInfo: ["Date: 24 Feb 2022", "Tools: Github Actions", "Category: CI/CD"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/carla_chiodi/EV-b4dxdIe5DonvnaWwRj_8BJP6wKffmqGxQlRcuKdrGMg"
   },
+  {
+    imageFileName: "onboarding.png",
+    imageFileNameDetails: "onboarding.png",
+    header: "New Onboarding Tool",
+    subheader: "by 5quad",
+    content: "Microsoft Forms : Automating the onboarding process",
+    extraInfo: ["Date: 03 Mar 2022", "Tools: Microsoft Forms", "Category: Automation"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/sabah_ahmad_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsabah%5Fahmad%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20New%20onboarding%20process%2D20220303%5F120327%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fsabah%5Fahmad%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+  }
 ]
 
+ 
