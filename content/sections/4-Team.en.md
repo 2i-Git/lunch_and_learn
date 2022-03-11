@@ -172,7 +172,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/turing.jpg",
+      imageFileName: "team/tesla.jpg",
       header: "Conor Tesh",
       subheader: "Associate Consultant - Engineering",
       social: {
@@ -181,7 +181,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/turing.jpg",
+      imageFileName: "team/mariecurie.jpg",
       header: "Sabah Ahmad",
       subheader: "Associate Consultant - Engineering",
       social: {
@@ -190,7 +190,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/turing.jpg",
+      imageFileName: "team/nathan.jpg",
       header: "Nathan Strang",
       subheader: "Associate Consultant - Engineering",
       social: {
@@ -199,7 +199,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/turing.jpg",
+      imageFileName: "team/matt.jpg",
       header: "Matt Simpson",
       subheader: "Associate Consultant - Engineering",
       social: {
@@ -208,7 +208,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/turing.jpg",
+      imageFileName: "team/thomas.jpg",
       header: "Thomas Skaife",
       subheader: "Associate Consultant - Engineering",
       social: {
@@ -217,7 +217,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/turing.jpg",
+      imageFileName: "team/jlm.jpg",
       header: "Shamanth Komala",
       subheader: "Associate Consultant - Engineering",
       social: {
@@ -226,7 +226,7 @@ teamMember: [
       }
     },
     {
-      imageFileName: "team/turing.jpg",
+      imageFileName: "team/alexanderbell.jpg",
       header: "Kashif Butt",
       subheader: "Associate Consultant - Engineering",
       social: {
