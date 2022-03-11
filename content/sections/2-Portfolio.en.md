@@ -182,6 +182,15 @@ portfolios: [
     content: "Microsoft Forms : Automating the onboarding process",
     extraInfo: ["Date: 03 Mar 2022", "Tools: Microsoft Forms", "Category: Automation"],
     videoLink: "https://2itesting-my.sharepoint.com/personal/sabah_ahmad_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsabah%5Fahmad%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20New%20onboarding%20process%2D20220303%5F120327%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fsabah%5Fahmad%5F2itesting%5Fcom%2FDocuments%2FRecordings"
+  },
+  {
+    imageFileName: "cd.png",
+    imageFileNameDetails: "cd.png",
+    header: "Continuous deployment with AWS & GitHub",
+    subheader: "by Andrew and Frankie",
+    content: "Continuous deployment solution with GitHub and AWS for a Node.js/express server",
+    extraInfo: ["Date: 10 Mar 2022", "Tools: AWS, EC2, CodeDeploy, GitHub, GitHub Actions", "Category: Continuous Deployment"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/andrew_gordon/EU9VBvHZ5LVEmxX-28YFjEYBacLbQIzR4zZ-nZRXwhxGpQ"
   }
 ]
 
