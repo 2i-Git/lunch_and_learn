@@ -174,5 +174,14 @@ portfolios: [
     extraInfo: ["Date: 24 Feb 2022", "Tools: Github Actions", "Category: CI/CD"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/carla_chiodi/EV-b4dxdIe5DonvnaWwRj_8BJP6wKffmqGxQlRcuKdrGMg"
   },
+     {
+    imageFileName: "terminal.png",
+    imageFileNameDetails: "terminal.png",
+    header: "UNIX",
+    subheader: "by Douglas",
+    content: "UNIX: A history part 1",
+    extraInfo: ["Date: 15 Mar 2022", "Tools: UNIX", "Category: Operating Systems"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EXkYXBssJr1NqcvwI3FuRxUBjHlzs60Zp33Jk817ShlUbw"
+  }
 ]
 
