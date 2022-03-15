@@ -191,7 +191,16 @@ portfolios: [
     content: "Continuous deployment solution with GitHub and AWS for a Node.js/express server",
     extraInfo: ["Date: 10 Mar 2022", "Tools: AWS, EC2, CodeDeploy, GitHub, GitHub Actions", "Category: Continuous Deployment"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/andrew_gordon/EU9VBvHZ5LVEmxX-28YFjEYBacLbQIzR4zZ-nZRXwhxGpQ"
-  }
+  },
+   {
+    imageFileName: "terminal.png",
+    imageFileNameDetails: "terminal.png",
+    header: "UNIX",
+    subheader: "by Douglas",
+    content: "UNIX: A history part 1",
+    extraInfo: ["Date: 15 Mar 2022", "Tools: UNIX", "Category: Operating Systems"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EXkYXBssJr1NqcvwI3FuRxUBjHlzs60Zp33Jk817ShlUbw"
+    }
 ]
 
  
