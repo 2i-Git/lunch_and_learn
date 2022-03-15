@@ -170,6 +170,70 @@ teamMember: [
           linkedin: "jandrewgordon",
           email: "andrew.gordon@2itesting.com"
       }
-    }
+    },
+    {
+      imageFileName: "team/tesla.jpg",
+      header: "Conor Tesh",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "conor-tesh-9179b4217",
+          email: "conor.test@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/mariecurie.jpg",
+      header: "Sabah Ahmad",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "sabah-ahmad-b587b6172",
+          email: "sabah.ahmad@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/nathan.jpg",
+      header: "Nathan Strang",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "nstrang2i",
+          email: "nathan.strang@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/matt.jpg",
+      header: "Matt Simpson",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "matthewjsimpson1993",
+          email: "matthew.simpson@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/thomas.jpg",
+      header: "Thomas Skaife",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "thomas-skaife",
+          email: "thomas.skaife@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/jlm.jpg",
+      header: "Shamanth Komala",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "shamanth-komala-lakshminarayana-b57690200",
+          email: "shamanth.komala@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/alexanderbell.jpg",
+      header: "Kashif Butt",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "kashifbutt18",
+          email: "kashif.butt@2itesting.com"
+      }
+    },
+
 ]
 ---
