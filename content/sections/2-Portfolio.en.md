@@ -200,6 +200,15 @@ portfolios: [
     content: "UNIX: A history part 1",
     extraInfo: ["Date: 15 Mar 2022", "Tools: UNIX", "Category: Operating Systems"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/EXkYXBssJr1NqcvwI3FuRxUBjHlzs60Zp33Jk817ShlUbw"
+    },
+    {
+      imageFileName: "apiPython.jpg",
+      imageFileNameDetails: "apiPython.jpg",
+      header: "Exploring API testing with Python",
+      subheader: "by Martin",
+      content: "A look into API testing with Python using various libraries",
+      extraInfo: ["Date: 7th Apr 2022", "Tools: Python", "Category: API Testing"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/ETfpETWUYH1CpdNsTpoevWABIqdUrQSFAi1lc9Lwg5RI0g"
     }
 ]
 
