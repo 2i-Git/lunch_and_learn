@@ -209,7 +209,25 @@ portfolios: [
       content: "A look into API testing with Python using various libraries",
       extraInfo: ["Date: 7th Apr 2022", "Tools: Python", "Category: API Testing"],
       videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/ETfpETWUYH1CpdNsTpoevWABIqdUrQSFAi1lc9Lwg5RI0g"
-    }
+    },
+    {
+      imageFileName: "screeps.png",
+      imageFileNameDetails: "screeps.png",
+      header: "Screeps - MMO RTS for Programmers",
+      subheader: "by Luke",
+      content: "War, what is it good for? Quite a lot actually!",
+      extraInfo: ["Date: 14th Apr 2022", "Tools: Javascript", "Category: Game by coding"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/ryan_kenny/ER3fHsxJQHVHsffRNExBRLUBze6PAkHmVLnato86DB_frw"
+    },
+    {
+      imageFileName: "whisky.jpg",
+      imageFileNameDetails: "whisky.jpg",
+      header: "Whisky",
+      subheader: "by Douglas",
+      content: "An overview of whisky production",
+      extraInfo: ["Date: 21st Apr 2022", "Category: Personal interest"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/luke_hutchison/EVfKgp8udX9EtIZ4zlyzTt0BGNlExLNgTAnRrfutBA-RBg"
+    },
 ]
 
  
