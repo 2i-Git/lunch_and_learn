@@ -228,6 +228,15 @@ portfolios: [
       extraInfo: ["Date: 21st Apr 2022", "Category: Personal interest"],
       videoLink: "https://2itesting-my.sharepoint.com/:v:/p/luke_hutchison/EVfKgp8udX9EtIZ4zlyzTt0BGNlExLNgTAnRrfutBA-RBg"
     },
+     {
+      imageFileName: "bot.png",
+      imageFileNameDetails: "bot.png",
+      header: "Working to your own schedule!",
+      subheader: "by Craig",
+      content: "Creating BOT reminders in Telegram with Python",
+      extraInfo: ["Date: 9th May 2022", "Category: BOTs, Python"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/martin_sutherland_2itesting_com/Documents/Recordings/Working%20to%20your%20own%20schedule!-20220509_120239-Meeting%20Recording.mp4?csf=1&web=1&e=je2Zl4"
+    },
 ]
 
  
