@@ -5,7 +5,7 @@ subheader: "We are solving problems"
 content: "You can find us on MS Teams as well"
 teamMember: [
   {
-    imageFileName: "team/adam.png",
+    imageFileName: "team/adam.jpg",
     header: "Adam Pettman",
     subheader: "Head of Engineering",
     social: {
@@ -234,6 +234,95 @@ teamMember: [
           email: "kashif.butt@2itesting.com"
       }
     },
+    {
+      imageFileName: "team/robertM.jpg",
+      header: "Robert Matthew",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "rhm14148",
+          email: "robert.matthew@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/aristotle.jpg",
+      header: "Matthew Gallagher",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "matthew-p-gallagher",
+          email: "matthew.gallagher@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/maciej.jpg",
+      header: "Maciej Fec",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "maciej-fec-657071182",
+          email: "maciej.fec@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/annaMP.jpg",
+      header: "Anna Pavlidou",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "anna-maria-pavlidou-6b5799238",
+          email: "anna-maria.pavlidou@2itesting.com@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/DClegg.jpg",
+      header: "David Clegg",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "david-clegg-86b239a6",
+          email: "david.clegg@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/charlesBabbage.jpg",
+      header: "Ross Clements",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "rosswclements",
+          email: "ross.clements@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/georgecarver.webp",
+      header: "Gabriel Kane",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "gabriel-kane-543565227",
+          email: "gabriel.kane@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/carolineherschel.jpg",
+      header: "Dionne Macintosh",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "dionne-macintosh-bsc-hons-0020701a8",
+          email: "dionne.macintosh@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/gustave.jpg",
+      header: "Abdennour Hachemi",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          email: "abdennour.hachemi@2itesting.com"
+      }
+    },
+    {
+      imageFileName: "team/einstein.jpg",
+      header: "Michal Kowalski",
+      subheader: "Associate Consultant - Engineering",
+      social: {
+          linkedin: "michal-kowalski-752480143",
+          email: "michal.kowalski@2itesting.com"
+      }
+    }
 
 ]
 ---
