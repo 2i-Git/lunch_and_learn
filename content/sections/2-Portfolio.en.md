@@ -237,6 +237,16 @@ portfolios: [
       extraInfo: ["Date: 9th May 2022", "Category: BOTs, Python"],
       videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/martin_sutherland_2itesting_com/Documents/Recordings/Working%20to%20your%20own%20schedule!-20220509_120239-Meeting%20Recording.mp4?csf=1&web=1&e=je2Zl4"
     },
+    {
+      imageFileName: "testbash.png",
+      imageFileNameDetails: "testbash.png",
+      header: "A Noobs Guide to Testing Events",
+      subheader: "by Nathan",
+      content: "Nathan talks about his first testing event, Test Bash X",
+      extraInfo: ["Date: 1st June 2022", "Category: Events"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EUZn51EU-LdEmv8_364veEQB2L6BZ1mR6EvgMjR2Cnyk2g"
+    },
+    
 ]
 
  
