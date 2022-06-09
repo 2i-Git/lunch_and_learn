@@ -16,7 +16,7 @@ teamMember: [
   {
     imageFileName: "team/jeff.jpeg",
     header: "Ryan Kenny",
-    subheader: "Senior Test Automation Engineer",
+    subheader: "Engineering Manager",
     social: {
       email: "ryan.kenny@2itesting.com"
     }
@@ -24,7 +24,7 @@ teamMember: [
   {
     imageFileName: "team/liam.png",
     header: "Liam Meagher",
-    subheader: "Associate Consultant - Engineering",
+    subheader: "Senior Engineer",
     social: {
       email: "liam.meagher@2itesting.com",
       linkedin: "liam-meagher-61115410b/"
@@ -57,7 +57,7 @@ teamMember: [
   {
     imageFileName: "team/craig.png",
     header: "Craig McLeod",
-    subheader: "Associate Consultant - Engineering",
+    subheader: "Engineer",
     social: {
       linkedin: "craig-r-mcleod",
       email: "craig.mcleod@2itesting.com"
@@ -66,7 +66,7 @@ teamMember: [
   {
     imageFileName: "team/doug.png",
     header: "Douglas MacIntyre",
-    subheader: "Associate Consultant - Engineering",
+    subheader: "Engineer",
     social: {
       linkedin: "dougmac21/",
       email: "douglas.macintyre@2itesting.com"
@@ -75,7 +75,7 @@ teamMember: [
     {
     imageFileName: "team/bill.png",
     header: "Stephen Fearnley",
-    subheader: "Associate Consultant - Engineering",
+    subheader: "Engineer",
     social: {
       linkedin: "stephen-fearnley-959451185",
       email: "stephen.fearnley@2itesting.com"
@@ -100,7 +100,7 @@ teamMember: [
       }
     },
     {
-    imageFileName: "team/leo.png",
+    imageFileName: "team/martin.PNG",
     header: "Martin Sutherland",
     subheader: "Associate Consultant - Engineering",
     social: {
