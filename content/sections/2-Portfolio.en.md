@@ -237,6 +237,25 @@ portfolios: [
       extraInfo: ["Date: 9th May 2022", "Category: BOTs, Python"],
       videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/martin_sutherland_2itesting_com/Documents/Recordings/Working%20to%20your%20own%20schedule!-20220509_120239-Meeting%20Recording.mp4?csf=1&web=1&e=je2Zl4"
     },
+    {
+      imageFileName: "testbash.png",
+      imageFileNameDetails: "testbash.png",
+      header: "A Noobs Guide to Testing Events",
+      subheader: "by Nathan",
+      content: "Nathan talks about his first testing event, Test Bash X",
+      extraInfo: ["Date: 1st June 2022", "Category: Events"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EUZn51EU-LdEmv8_364veEQB2L6BZ1mR6EvgMjR2Cnyk2g"
+    },
+        {
+      imageFileName: "blockchain.PNG",
+      imageFileNameDetails: "blockchain.PNG",
+      header: "A taste of Blockchain",
+      subheader: "by Gabriel",
+      content: "Gabriel gives an introduction to Blockchain",
+      extraInfo: ["Date: 17th June 2022", "Category: Web3"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20A%20taste%20of%20Blockchain-20220616_120228-Meeting%20Recording.mp4?csf=1&web=1&e=2IfPfO"
+    },
+    
 ]
 
  
