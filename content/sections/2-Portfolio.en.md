@@ -114,9 +114,9 @@ portfolios: [
    {
     imageFileName: "pipelines.png",
     imageFileNameDetails: "pipelines.png",
-    header: "Thrive Tribe ADO Pipelines",
+    header: "Microservice architecture and ADO Pipelines",
     subheader: "by Liam",
-    content: "A walk through of a Microservices Architecture and the pipelines supporting it",
+    content: "A walk through of a generic Microservices Architecture and the pipelines supporting it",
     extraInfo: ["Date: 14 Jan 2022", "Tools: Microsoft Azure", "Category: Pipelines"],
     videoLink: "https://2itesting-my.sharepoint.com/personal/liam_meagher_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%20%2D%20Thrive%20Tribe%20ADO%20Pipelines%2D20220114%5F123145%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fliam%5Fmeagher%5F2itesting%5Fcom%2FDocuments%2FRecordings"
   },
