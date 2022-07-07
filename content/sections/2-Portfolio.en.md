@@ -255,6 +255,15 @@ portfolios: [
       extraInfo: ["Date: 17th June 2022", "Category: Web3"],
       videoLink: "https://2itesting-my.sharepoint.com/:v:/r/personal/gabriel_kane_2itesting_com/Documents/Recordings/Lunch%20%26%20Learn%20-%20A%20taste%20of%20Blockchain-20220616_120228-Meeting%20Recording.mp4?csf=1&web=1&e=2IfPfO"
     },
+    {
+      imageFileName: "truenas.jpg",
+      imageFileNameDetails: "truenas.jpg",
+      header: "Do you even NAS?",
+      subheader: "by Douglas",
+      content: "An introduction to NAS (part 1/3)",
+      extraInfo: ["Date: 7th July", "Category: NAS"],
+      videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EbEsJocM_ZFBlQtnQ1IhJDQB4siGTSl4pCbLzKF1QbP7LA"
+    }
     
 ]
 
