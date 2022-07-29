@@ -263,6 +263,24 @@ portfolios: [
       content: "An introduction to NAS (part 1/3)",
       extraInfo: ["Date: 7th July", "Category: NAS"],
       videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EbEsJocM_ZFBlQtnQ1IhJDQB4siGTSl4pCbLzKF1QbP7LA"
+    },
+        {
+      imageFileName: "truenas.jpg",
+      imageFileNameDetails: "truenas.jpg",
+      header: "The SMR Problem",
+      subheader: "by Douglas",
+      content: "An introduction to NAS (part 2/3)",
+      extraInfo: ["Date: 12th July", "Category: NAS"],
+      videoLink: "https://2itesting-my.sharepoint.com/personal/craig_mcleod_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20The%20SMR%20Problem%2D20220712%5F123204%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings&ct=1659080706885&or=Teams%2DHL&ga=1"
+    },
+      {
+      imageFileName: "machine_learning.jpg",
+      imageFileNameDetails: "truenas.jpg",
+      header: "Machine learning in Testing",
+      subheader: "by Matthew",
+      content: "How Machine learning can aid our day to day roles",
+      extraInfo: ["Date: 21st July", "Category: NAS"],
+      videoLink: "https://2itesting-my.sharepoint.com/personal/craig_mcleod_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20Machine%20Learning%20in%20Testing%2D20220721%5F123327%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings&ct=1659080689140&or=Teams%2DHL&ga=1"
     }
     
 ]
