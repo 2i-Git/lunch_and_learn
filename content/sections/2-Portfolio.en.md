@@ -273,15 +273,33 @@ portfolios: [
       extraInfo: ["Date: 12th July", "Category: NAS"],
       videoLink: "https://2itesting-my.sharepoint.com/personal/craig_mcleod_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20The%20SMR%20Problem%2D20220712%5F123204%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings&ct=1659080706885&or=Teams%2DHL&ga=1"
     },
-      {
-      imageFileName: "machine_learning.jpeg",
-      imageFileNameDetails: "machine_learning.jpeg",
-      header: "Machine learning in Testing",
-      subheader: "by Matthew",
-      content: "How Machine learning can aid our day to day roles",
-      extraInfo: ["Date: 21st July", "Category: NAS"],
-      videoLink: "https://2itesting-my.sharepoint.com/personal/craig_mcleod_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20Machine%20Learning%20in%20Testing%2D20220721%5F123327%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings&ct=1659080689140&or=Teams%2DHL&ga=1"
-    }
+    {
+    imageFileName: "machine_learning.jpeg",
+    imageFileNameDetails: "machine_learning.jpeg",
+    header: "Machine learning in Testing",
+    subheader: "by Matthew",
+    content: "How Machine learning can aid our day to day roles",
+    extraInfo: ["Date: 21st July", "Category: NAS"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/craig_mcleod_2itesting_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FLunch%20%26%20Learn%5F%20Machine%20Learning%20in%20Testing%2D20220721%5F123327%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Fcraig%5Fmcleod%5F2itesting%5Fcom%2FDocuments%2FRecordings&ct=1659080689140&or=Teams%2DHL&ga=1"
+  },
+  {
+    imageFileName: "gatsby.jpg",
+    imageFileNameDetails: "gatsby.jpg",
+    header: "An introductin to Gatsby",
+    subheader: "by Lewis",
+    content: "An introduction to the Gatsby framework and static site generation.",
+    extraInfo: ["Date: 11th August", "Category: JS Frameworks"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/ESN_PERn0sVKnISKim-O3t8Bkr08TAsyylsbggnlZdPOAg"
+  },
+  {
+    imageFileName: "frame.jpg",
+    imageFileNameDetails: "frame.jpg",
+    header: "AssureATF pipeline",
+    subheader: "by Gabriel",
+    content: "A demonstration of the new AssureATF pipeline/UI.",
+    extraInfo: ["Date: 18th August", "Category: Pipelines and testing frameworks"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EdBu2lqYLFZOmQuQfRGEsXQB6u0MyZH2B7gvwK8dZ4FZcw"
+  },
     
 ]
 
