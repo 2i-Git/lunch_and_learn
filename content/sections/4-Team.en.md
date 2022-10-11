@@ -14,14 +14,6 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/jeff.jpeg",
-    header: "Ryan Kenny",
-    subheader: "Engineering Manager",
-    social: {
-      email: "ryan.kenny@2itesting.com"
-    }
-  },
-  {
     imageFileName: "team/liam.png",
     header: "Liam Meagher",
     subheader: "Senior Engineer",
@@ -46,14 +38,6 @@ teamMember: [
       email: "Madhumita.Suresh@2itesting.com"
       }
     },
-  {
-    imageFileName: "team/ada.jpeg",
-    header: "Luke Hutchison",
-    subheader: "Associate Consultant - Engineering",
-    social: {
-      email: "luke.hutchison@2itesting.com"
-    }
-  },
   {
     imageFileName: "team/craig.png",
     header: "Craig McLeod",
