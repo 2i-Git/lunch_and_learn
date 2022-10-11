@@ -300,7 +300,60 @@ portfolios: [
     extraInfo: ["Date: 18th August", "Category: Pipelines and testing frameworks"],
     videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EdBu2lqYLFZOmQuQfRGEsXQB6u0MyZH2B7gvwK8dZ4FZcw"
   },
-    
+    {
+    imageFileName: "learning.jpg",
+    imageFileNameDetails: "learning.jpg",
+    header: "Learning on client site, with Sabah",
+    subheader: "by Sabah",
+    content: "Sabah talks through what she has learned on her first 4 months on client site.",
+    extraInfo: ["Date: 25th August", "Category: Client induction"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/EQ6G_WmW0XJKrcl-oLtGzK4BZs4fKmTwEGaT7AnrkeroVA"
+  },
+  {
+    imageFileName: "learning2.jpg",
+    imageFileNameDetails: "learning2.jpg",
+    header: "Learning on client site, with Martin",
+    subheader: "by Martin",
+    content: "Martin talks through what he has learned on his first few months with a new client.",
+    extraInfo: ["Date: 1st September", "Category: Client induction"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/ETHLlxUwlJRNhbbnK5rSvIABZzGV7f8PaT0fwDVEXEQRJA"
+  },
+  {
+    imageFileName: "pa.jpg",
+    imageFileNameDetails: "pa.jpg",
+    header: "Power Automate - Playlist Bot",
+    subheader: "by Scott",
+    content: "How to make a playlist bot from shared youtube links in teams",
+    extraInfo: ["Date: 8th September", "Category: Automation/Bots"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/EW0r759e349Lr8cZlNLyyy8B_Qlv4nx62gWYRqKoBjTG2w"
+  },
+  {
+    imageFileName: "energy.png",
+    imageFileNameDetails: "energy.png",
+    header: "Testing Blockchain for Sustainability",
+    subheader: "by Aleksandra, Oskar and Sabrina",
+    content: "How can we measure and test the environmental efficiency of blockchain implementations?",
+    extraInfo: ["Date: 30th September 2022", "Category: Web3"],
+    videoLink: "https://2itesting-my.sharepoint.com/personal/andrew_gordon_2itesting_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fandrew%5Fgordon%5F2itesting%5Fcom%2FDocuments%2FRecordings%2FEngineering%20Visions%20Presentation%5F%20The%20Blockchain%2C%20Testing%20and%20Sustainability%2D20220930%5F140300%2DMeeting%20Recording%2Emp4&ga=1"
+  },
+  {
+    imageFileName: "data.jpg",
+    imageFileNameDetails: "data.jpg",
+    header: "Test Data Generation tool on client site",
+    subheader: "by Daniel",
+    content: "A demonstration of our internally built test data generator, used on client site.",
+    extraInfo: ["Date: 6th October 2022", "Category: Test Data"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/craig_mcleod/Efk12gyb5NBLu2yFbRBCs_8BJtSdOIbR3fSxDf7uhFubzQ"
+  },
+  {
+    imageFileName: "bot2.jpeg",
+    imageFileNameDetails: "bot2.jpeg",
+    header: "Coding Challenge Review Bot",
+    subheader: "by Michal",
+    content: "A walkthrough of the coding challenge review bot.",
+    extraInfo: ["Date: 7th October 2022", "Category: Bots, Power Automate"],
+    videoLink: "https://2itesting-my.sharepoint.com/:v:/p/martin_sutherland/EZhY9KBHaEBOkHVZydJQmZ0BOGBHwnVEf65M94oFUBVKog"
+  }
 ]
 
  
