@@ -1,5 +1,5 @@
 const path = require("path");
-const { title, keywords, description, author, defaultLang, trackingId, image} = require("./config/site");
+const { title, keywords, description, author, defaultLang, trackingId, image } = require("./config/site");
 
 module.exports = {
   siteMetadata: {
@@ -16,7 +16,7 @@ module.exports = {
         trackingId,
       },
     },
-     "gatsby-plugin-image",
+    "gatsby-plugin-image",
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -43,6 +43,14 @@ module.exports = {
         name: "images",
         path: `${__dirname}/content/assets/images`,
       },
+    },
+    {
+      resolve: "gatsby-source-git",
+      options: {
+        name: `remote-content`,
+        remote: "https://github.com/2i-Git/lunch_and_learn_content.git",
+        patterns: ["**/*", "!*/README.md"]
+      }
     },
     "gatsby-plugin-eslint",
     "gatsby-plugin-react-helmet",
