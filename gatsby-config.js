@@ -41,6 +41,8 @@ module.exports = {
       options: {
         name: `markdown`,
         remote: "https://github.com/2i-Git/lunch_and_learn_content.git",
+        // uncomment the line below if you want to pull content from a specific branch of the content repo
+        // branch: `test`
       }
     },
     "gatsby-transformer-remark",
