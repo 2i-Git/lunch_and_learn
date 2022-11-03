@@ -29,29 +29,37 @@ module.exports = {
         icon: "content/assets/logo.png",
       },
     },
-    "gatsby-transformer-remark",
+    // {
+    //   resolve: "gatsby-source-filesystem",
+    //   options: {
+    //     name: "markdown",
+    //     path: `${__dirname}/content`,
+    //   },
+    // },
+    // {
+    //   resolve: "gatsby-source-filesystem",
+    //   options: {
+    //     name: "images",
+    //     path: `${__dirname}/content/assets/images`,
+    //   },
+    // },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: "gatsby-source-git",
       options: {
-        name: "markdown",
-        path: `${__dirname}/content`,
-      },
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "images",
-        path: `${__dirname}/content/assets/images`,
-      },
+        name: `markdown`,
+        remote: "https://github.com/2i-Git/lunch_and_learn_content.git",
+        patterns: `*.md`
+      }
     },
     {
       resolve: "gatsby-source-git",
       options: {
-        name: `remote-content`,
+        name: `images`,
         remote: "https://github.com/2i-Git/lunch_and_learn_content.git",
-        patterns: ["**/*", "!*/README.md"]
+        patterns: `!*.md`
       }
     },
+    "gatsby-transformer-remark",
     "gatsby-plugin-eslint",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sharp",
