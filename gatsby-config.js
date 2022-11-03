@@ -29,34 +29,18 @@ module.exports = {
         icon: "content/assets/logo.png",
       },
     },
-    // {
-    //   resolve: "gatsby-source-filesystem",
-    //   options: {
-    //     name: "markdown",
-    //     path: `${__dirname}/content`,
-    //   },
-    // },
-    // {
-    //   resolve: "gatsby-source-filesystem",
-    //   options: {
-    //     name: "images",
-    //     path: `${__dirname}/content/assets/images`,
-    //   },
-    // },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "local",
+        path: `${__dirname}/content`,
+      },
+    },
     {
       resolve: "gatsby-source-git",
       options: {
         name: `markdown`,
         remote: "https://github.com/2i-Git/lunch_and_learn_content.git",
-        patterns: `*.md`
-      }
-    },
-    {
-      resolve: "gatsby-source-git",
-      options: {
-        name: `images`,
-        remote: "https://github.com/2i-Git/lunch_and_learn_content.git",
-        patterns: `!*.md`
       }
     },
     "gatsby-transformer-remark",
@@ -106,7 +90,7 @@ module.exports = {
       options: {
         langKeyDefault: defaultLang,
         useLangKeyLayout: false,
-        pagesPaths: ["/content/"],
+        pagesPaths: [`/.cache/gatsby-source-git/markdown/content/`],
       },
     },
   ],
