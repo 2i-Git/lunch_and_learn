@@ -13,8 +13,8 @@ const Footer = ({ frontmatter }) => {
     copyright,
     privacyHref,
     privacyText,
-    termsHref,
-    termsText,
+    // termsHref,
+    // termsText,
     social: { facebook, github, linkedin, medium, twitter },
   } = frontmatter;
 
@@ -36,7 +36,7 @@ const Footer = ({ frontmatter }) => {
             <a className="mr-3" href={privacyHref}>
               {privacyText}
             </a>
-            <a href={termsHref}>{termsText}</a>
+            {/* <a href={termsHref}>{termsText}</a> */}
           </Col>
         </Row>
       </Container>
