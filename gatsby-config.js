@@ -1,5 +1,5 @@
 const path = require("path");
-const { title, keywords, description, author, defaultLang, trackingId, image} = require("./config/site");
+const { title, keywords, description, author, defaultLang, trackingId, image } = require("./config/site");
 
 module.exports = {
   siteMetadata: {
@@ -16,7 +16,7 @@ module.exports = {
         trackingId,
       },
     },
-     "gatsby-plugin-image",
+    "gatsby-plugin-image",
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -29,21 +29,23 @@ module.exports = {
         icon: "content/assets/logo.png",
       },
     },
-    "gatsby-transformer-remark",
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "markdown",
+        name: "local",
         path: `${__dirname}/content`,
       },
     },
     {
-      resolve: "gatsby-source-filesystem",
+      resolve: "gatsby-source-git",
       options: {
-        name: "images",
-        path: `${__dirname}/content/assets/images`,
-      },
+        name: `markdown`,
+        remote: "https://github.com/2i-Git/lunch_and_learn_content.git",
+        // uncomment the line below if you want to pull content from a specific branch of the content repo
+        // branch: `test`
+      }
     },
+    "gatsby-transformer-remark",
     "gatsby-plugin-eslint",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sharp",
@@ -90,7 +92,7 @@ module.exports = {
       options: {
         langKeyDefault: defaultLang,
         useLangKeyLayout: false,
-        pagesPaths: ["/content/"],
+        pagesPaths: [`/.cache/gatsby-source-git/markdown/content/`],
       },
     },
   ],
